@@ -1,0 +1,15 @@
+.my-name {
+  font-size: 25px;
+  padding: 20px 20px;
+}
+
+.name {
+  color: red;
+  background-color: aliceblue;
+}
+
+.surname {
+  color: blue;
+  background-color: azure;
+}
+

@@ -1,0 +1,10 @@
+.time {
+  background-color: darkcyan;
+  color: white;
+  display: flex;
+  font-family: "Arial Black";
+  font-size: 20px;
+  justify-content: center;
+  margin: 40px 300px;
+  padding: 20px 0 auto;
+}
